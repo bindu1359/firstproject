@@ -13,7 +13,7 @@ type(t)
 a=(1,2,3)
 type(a)
 <class 'tuple'>
-
+<classs file>
 which of the following are valid tuples
 =====================================
 1.t=()
